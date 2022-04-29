@@ -236,7 +236,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 -   [ ] 34-1:_[Projeto - Trybeer V2]()_
 
-## Computer Science :hourglass flowing sand:
+## Computer Science :hourglass_flowing_sand:
 
 ##### Block 35: Introduction - Computer Science
 
