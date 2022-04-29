@@ -10,8 +10,8 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 1: Introduction - Unix and Shell
 
--   [ ] 1-3:_Unix & Shell- Part 1_
--   [ ] 1-4:_Unix & Shell- Part 2_
+-   [x] 1-3:_Unix & Shell- Part 1_
+-   [x] 1-4:_Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
