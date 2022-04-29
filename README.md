@@ -1,4 +1,4 @@
-﻿# Trybe
+# Trybe
 
 Este repositório contêm todas as atividades de aprendizagem desenvolvidas por _[Lucas Ximenes](https://www.linkedin.com/in/lucasdximenes/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 

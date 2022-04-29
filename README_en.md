@@ -50,7 +50,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 ##### Block 6: Advanced HTML & CSS
 
 -   [ ] 6-1:_HTML & CSS - Forms_
--   [ ] 6-2:_Bibliotecas JavaScript e Frameworks CSS_
+-   [ ] 6-2:_JavaScript libraries and CSS frameworks_
 -   [ ] 6-3:_CSS Flexbox - Part 1_
 -   [ ] 6-4:_CSS Flexbox - Part 2_
 -   [ ] 6-5:_CSS Responsive - Mobile First_
@@ -77,7 +77,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 -   [ ] 9-2:_JavaScript Promises_
 -   [ ] 9-3:_[Project - Shopping Cart]()_
 
-##### Bloco 10: There is
+##### Bloco 10: Jest
 
 -   [ ] 10-1:_Getting Started at Jest_
 -   [ ] 10-2:_Jest - Asynchronous Tests_
@@ -88,7 +88,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 11: Introduction - React
 
--   [ ] 11-1:_'Hello, world!' no React!_
+-   [ ] 11-1:_'Hello, world!' in React!_
 -   [ ] 11-2:_React Components_
 -   [ ] 11-3:_[Projeto - Movie Cards Library]()_
 
@@ -112,7 +112,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 15: Tests in React
 
--   [ ] 15-1:_Testando React com a React Testing Library_
+-   [ ] 15-1:_Testing React with the React Testing Library_
 -   [ ] 15-2:_Testing React with the React Testing Library - Part 2_
 -   [ ] 15-3:_[Project - Tests in React]()_
 
@@ -134,7 +134,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 -   [ ] 18-1:_Context API do React_
 -   [ ] 18-2:_React Hooks - useState e useContext_
 -   [ ] 18-3:_React Hooks - useEffect and custom Hooks_
--   [ ] 18-4:_[Projeeto - Starwars datable com com context a hooks]()_
+-   [ ] 18-4:_[Project - Starwars datable com com context a hooks]()_
 
 ##### Block 19: Final Front-end Project
 
@@ -181,7 +181,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 -   [ ] 25-1:_Aggregation Framework - Part 1_
 -   [ ] 25-2:_Aggregation Framework - Part 2_
--   [ ] 25-3:_[Projeto - Aggregations]()_
+-   [ ] 25-3:_[Project - Aggregations]()_
 
 ##### Block 26: Intro - NodeJS
 
