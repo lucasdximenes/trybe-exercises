@@ -22,7 +22,7 @@
 
 ## CSS inline e externo
 
-### [Exercício 3](./exercise-3/index.html)
+### [Exercício 3](./exercise-3)
 
 -   Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
 
