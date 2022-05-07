@@ -22,14 +22,3 @@
 -   Position the balloon so that it becomes a Bowser speech.
 
 ---
-
-## Portfolio requirements:
-
-### [Portfolio](https://lucasdximenes.github.io/)
-
-#### [Portfolio Repository](https://github.com/lucasdximenes/lucasdximenes.github.io)
-
--   Set different fonts for your name and for the description you created;
--   Set a base background color for your Web Portfolio;
--   Change the style of tags you used to highlight some information, such as your nationality and the city/state where you live;
--   Put different sizes for the skill list elements you created. Remember to use classes for each of the elements;
