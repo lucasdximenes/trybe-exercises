@@ -4,7 +4,7 @@
 
 ## Box model - Model of boxes in CSS
 
-### [Exercise 1](./exercise_1/index.html)
+### [Exercise 1](./exercises_1/index.html)
 
 -   Reproduce this item schema:
     ![CSS-Box-Model-Example](./exercises_1/css-box-model-example.webp)
