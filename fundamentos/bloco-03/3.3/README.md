@@ -4,7 +4,7 @@
 
 ## Box model - Modelo de caixas no CSS
 
-### [Exercício 1](./exercises_1/index.html)
+### [Exercício 1](./exercises_1)
 
 -   Reproduza esse esquema de itens:
     ![CSS-Box-Model-Example](./exercises_1/css-box-model-example.webp)
@@ -13,7 +13,7 @@
 
 ## Posicionamento de elementos
 
-### [Exercício 2](./exercises_2/index.html)
+### [Exercício 2](./exercises_2)
 
 > Personagens pertencentes à Nintendo©
 
