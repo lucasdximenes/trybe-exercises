@@ -2,11 +2,11 @@ ol li {
     background-color: yellow;
 }
 
-ol li.par {
+ol li:nth-child(even) {
     color: green;
 }
 
-ol li.impar {
+ol li:nth-child(odd) {
     text-transform: uppercase;
 }
 
