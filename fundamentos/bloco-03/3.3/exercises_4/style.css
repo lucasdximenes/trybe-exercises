@@ -1,0 +1,40 @@
+div:hover {
+    border-style: solid;
+    border-color: #00ff00;
+}
+
+div:nth-of-type(1) {
+    background-color: #7c9eb2;
+}
+div:nth-of-type(2) {
+    background-color: #52528c;
+}
+div:nth-of-type(3) {
+    background-color: #372554;
+}
+div:nth-of-type(4) {
+    background-color: #231123;
+}
+div:nth-of-type(5) {
+    background-color: #000000;
+}
+
+div:nth-of-type(1) > h3 {
+    font-style: italic;
+    color: #03440c;
+}
+div:nth-of-type(2) > h3 {
+    color: #036016;
+}
+div:nth-of-type(3) > h3 {
+    font-style: italic;
+    font-size: 32px;
+    color: #04773b;
+}
+div:nth-of-type(4) > h3 {
+    color: #05b44e;
+}
+div:nth-of-type(5) > h3 {
+    font-style: italic;
+    color: #00b92e;
+}
