@@ -24,7 +24,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 -   [x] 3-1:_HTML & CSS - Page Structures_
 -   [x] 3-2:_HTML & CSS - Getting Started with CSS_
 -   [x] 3-3:_HTML & CSS - Selectors and Positioning_
--   [ ] 3-4:_Semantic HTML_
+-   [x] 3-4:_Semantic HTML_
 -   [ ] 3-5:_[Project - HTML & CSS]()_
 
 ##### Block 4: Introduction - JavaScript
