@@ -1,0 +1,102 @@
+body {
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+    margin: 0 auto;
+    /* background-color: wheat; */
+}
+
+header {
+    text-align: center;
+}
+
+h3,
+h4 {
+    margin-top: 50px;
+    margin: 0 50px;
+}
+
+p {
+    margin: 0 50px;
+}
+
+nav {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-bottom: 100px;
+    margin: 0 50px;
+}
+
+nav ul li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+nav ul li a {
+    padding-right: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 55px;
+}
+
+caption {
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+}
+
+figure {
+    border: thin #c0c0c0 solid;
+    padding: 5px;
+    max-width: 500px;
+    margin: auto;
+}
+
+#visao {
+    width: 500px;
+    height: 250px;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.referencia {
+    color: blue;
+    margin: 0 50px;
+}
+
+#video {
+    font-size: 32px;
+    text-decoration: none;
+    margin: 0 50px;
+}
