@@ -128,7 +128,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 15-5: _Testing in React-Redux_
 - [ ] 15-6: _[Project - Trybe Wallet]()_
 
-##### Block 16:Trivia Game Project
+##### Block 16: Trivia Game Project
 
 - [ ] 16-1: _[Project - Trivia Game]()_
 
