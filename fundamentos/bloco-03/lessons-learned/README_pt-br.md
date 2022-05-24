@@ -1,12 +1,14 @@
 # Lista de requisitos
 
+> _[Live version](https://lucasdximenes.github.io/other/projects/lessons-learned/)_
+
 ### 1. Adicione uma cor de fundo específica para a página
 
 Possuir cor de fundo: rgb(253, 251, 251)
 
 **O que será verificado:**
 
--   Possuir cor de fundo: rgb(253, 251, 251)
+- Possuir cor de fundo: rgb(253, 251, 251)
 
 ### 2. Adicione uma barra superior com um título
 
@@ -14,10 +16,10 @@ A barra deve possuir o ID "cabecalho" e deve ser fixa no topo da página com a p
 
 **O que será verificado:**
 
--   A barra possui o ID "cabecalho"
--   A barra superior deve ser fixa no topo da página, leia mais sobre ela [aqui](https://www.w3schools.com/css/css_positioning.asp).
--   A barra deve ter a propriedade **top** tendo o valor `0`
--   O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag "h1"
+- A barra possui o ID "cabecalho"
+- A barra superior deve ser fixa no topo da página, leia mais sobre ela [aqui](https://www.w3schools.com/css/css_positioning.asp).
+- A barra deve ter a propriedade **top** tendo o valor `0`
+- O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag "h1"
 
 ### 3. Adicione uma foto sua à página
 
@@ -25,7 +27,7 @@ A foto deve ser inserida utilizando uma tag **img** com o ID "minha_foto".
 
 **O que será verificado:**
 
--   A foto deve ser inserida utilizando uma tag img com o ID "minha_foto"
+- A foto deve ser inserida utilizando uma tag img com o ID "minha_foto"
 
 ### 4. Adicione uma lista de lições aprendidas à página
 
@@ -33,8 +35,8 @@ A lista deve possuir **10** itens, ser numerada e possuir o ID "licoes_aprendida
 
 **O que será verificado:**
 
--   A lista deve ser numerada e possuir o ID "licoes_aprendidas"
--   A lista deve possuir 10 itens
+- A lista deve ser numerada e possuir o ID "licoes_aprendidas"
+- A lista deve possuir 10 itens
 
 ### 5. Crie uma lista de lições que ainda deseja aprender para a página
 
@@ -42,8 +44,8 @@ A lista deve possuir **10** itens, não ser numerada e possuir o ID "licoes_a_ap
 
 **O que será verificado:**
 
--   A lista não deve ser numerada e deve possuir o ID "licoes_a_aprender"
--   A lista deve possuir 10 itens
+- A lista não deve ser numerada e deve possuir o ID "licoes_a_aprender"
+- A lista deve possuir 10 itens
 
 ### 6. Adicione um rodapé para a página
 
@@ -51,7 +53,7 @@ O rodapé deve utilizar a tag **footer** e possuir o ID "rodape".
 
 **O que será verificado:**
 
--   O rodapé deve possuir o ID "rodape"
+- O rodapé deve possuir o ID "rodape"
 
 ### 7. Insira pelo menos um link externo na página
 
@@ -59,7 +61,7 @@ A configuração desse link deve ser feita para abrir em uma nova aba do navegad
 
 **O que será verificado:**
 
--   A configuração desse link deve ser feita para abrir em uma nova aba do navegador
+- A configuração desse link deve ser feita para abrir em uma nova aba do navegador
 
 ### 8. Crie um artigo sobre seu aprendizado
 
@@ -67,8 +69,8 @@ O artigo deverá possuir mais de 300 **caracteres** e menos de 600, além disto 
 
 **O que será verificado:**
 
--   A `tag` `article` devem ser utilizadas
--   O artigo deve ter mais de 300 caracteres e menos de 600
+- A `tag` `article` devem ser utilizadas
+- O artigo deve ter mais de 300 caracteres e menos de 600
 
 ### 9. Crie uma seção que conta uma passagem sobre seu aprendizado
 
@@ -76,8 +78,8 @@ A seção deverá possuir mais de 100 **caracteres** e menos de 300, além disto
 
 **O que será verificado:**
 
--   A `tag` `aside` deve ser utilizada
--   A seção deve ter mais que 100 caracteres e menos que 300
+- A `tag` `aside` deve ser utilizada
+- A seção deve ter mais que 100 caracteres e menos que 300
 
 ### 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
 
@@ -85,12 +87,12 @@ Para tornar o seu site mais acessível e melhorar seu ranqueamento em mecanismos
 
 **O que será verificado:**
 
--   Validar se a página possui um elemento "article"
--   Validar se a página possui um elemento "header"
--   Validar se a página possui um elemento "nav"
--   Validar se a página possui um elemento "section"
--   Validar se a página possui um elemento "aside"
--   Validar se a página possui um elemento "footer"
+- Validar se a página possui um elemento "article"
+- Validar se a página possui um elemento "header"
+- Validar se a página possui um elemento "nav"
+- Validar se a página possui um elemento "section"
+- Validar se a página possui um elemento "aside"
+- Validar se a página possui um elemento "footer"
 
 ### 11. Teste a semântica da sua página está aprovada pelo site CodeSniffer
 
@@ -98,7 +100,7 @@ Teste a semântica da sua página está aprovada pelo site CodeSniffer
 
 **O que será verificado:**
 
--   Seu site deve passar sem problemas na verificação de semântica do site CodeSniffer
+- Seu site deve passar sem problemas na verificação de semântica do site CodeSniffer
 
 ### BÔNUS
 
@@ -106,7 +108,7 @@ Teste a semântica da sua página está aprovada pelo site CodeSniffer
 
 **O que será verificado:**
 
--   A página deve possuir uma tabela
+- A página deve possuir uma tabela
 
 ### 13. Utilize o Box model
 
@@ -114,7 +116,7 @@ Altere **margin**, **padding** e **border** dos elementos para ver, na prática,
 
 **O que será verificado:**
 
--   Altere `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
+- Altere `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
 
 ### 14. Altere atributos relacionados as fontes
 
@@ -122,10 +124,10 @@ Modifique o estilo da sua tipografia alterando o tamanho de letra, a cor, o espa
 
 **O que será verificado:**
 
--   Altere o tamanho da letra
--   Altere a cor da letra
--   Altere o espaçamento entre as linhas
--   Altere o `font-family`
+- Altere o tamanho da letra
+- Altere a cor da letra
+- Altere o espaçamento entre as linhas
+- Altere o `font-family`
 
 ### 15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro
 
@@ -133,8 +135,8 @@ Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao 
 
 **O que será verificado:**
 
--   Utilizar a classe "lado-esquerdo"
--   Utilizar a classe "lado-direito"
--   Verificar se os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
+- Utilizar a classe "lado-esquerdo"
+- Utilizar a classe "lado-direito"
+- Verificar se os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
 
 ---
