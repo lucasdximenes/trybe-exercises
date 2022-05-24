@@ -28,7 +28,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 3-2: _HTML & CSS - Getting Started with CSS_
 - [x] 3-3: _HTML & CSS - Selectors & Positioning_
 - [x] 3-4: _Semantic HTML_
-- [x] 3-5: _[Project - Lessons Learned](./fundamentals/block-03/lessons-learned/)_
+- [x] 3-5: _[Project - Lessons Learned](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-03/lessons-learned)_
 
 ##### Block 4: Introduction to JavaScript and Programming Logic ✔️
 
@@ -37,7 +37,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 4-2: _JavaScript - Array and For_ loop
 - [x] 4-3: _JavaScript - Programming Logic and Algorithms_
 - [x] 4-4: _JavaScript - Objects and Functions_
-- [x] 4-5: _[Project - Playground Functions](./fundamentos/bloco-04/playground-functions/)_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-04/playground-functions)_
 
 ##### Block 5: JavaScript: DOM, Events and Web Storage
 
