@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+  background-color: aquamarine;
+}
+/* Requirement 2 - 3*/
+.color {
+  display: inline-block;
+  border: black solid 1px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+/* requirement 3 */
+.color:nth-child(1) {
+  background-color: black;
+}
+/* ------------- */
+.color:nth-child(2) {
+  background-color: red;
+}
+.color:nth-child(3) {
+  background-color: green;
+}
+.color:nth-child(4) {
+  background-color: blue;
+}
+/* ------------- */
+/* Requirement 4 */
+.row {
+  margin-bottom: -5px;
+}
+.pixel {
+  margin-right: -1px;
+  /* requirement 5 */
+  width: 40px;
+  height: 40px;
+  /* ------------- */
+  border: 1px solid black;
+  background-color: white;
+}
+/* ------------- */
+/* Requirement 9 */
+#clear-board {
+  cursor: pointer;
+  margin-bottom: 15px;
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+/* ------------- */
+/* Additional */
+#new-random-colors {
+  cursor: pointer;
+  margin-bottom: 15px;
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+/* ---------- */
+/* Requirement 10 */
+#board-size-section {
+  margin-bottom: 15px;
+}
+#generate-board {
+  cursor: pointer;
+  background-color: #0f47ff;
+  border: none;
+  border-radius: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#board-size {
+  width: 55px;
+  height: 55px;
+}
+/* -------------- */
