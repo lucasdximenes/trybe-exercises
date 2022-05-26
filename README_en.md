@@ -45,8 +45,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 5-2: _JavaScript - Working with elements_
 - [x] 5-3: _JavaScript - Events_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Fundamentals - JavaScript - Projects_
-- [ ] 5-5: _[Project - Pixel Art]()_
+- [x] 5-5: _Fundamentals - JavaScript - Projects_
+- [x] 5-5: _[Project - Pixel Art](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-pixels-art)_
 - [ ] 5-6: _(Bonus)[Project - Task List]()_
 - [ ] 5-7: _(Bonus)[Project - Meme Generator]()_
 - [ ] 5-7: _(Bonus)[Project - Guess the Color]()_
