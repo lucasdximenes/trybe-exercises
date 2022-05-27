@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" defer></script>
+    <title>Meme Generator</title>
+  </head>
+  <body>
+    <header>
+      <h1>Meme Generator</h1>
+    </header>
+    <!-- Requirement 1 -->
+    <section id="inputs-section">
+      <label for="text-input" class="label-block">
+        Texto:
+        <input
+          type="text"
+          id="text-input"
+          maxlength="60"
+          placeholder="Type your text"
+        />
+      </label>
+      <!-- ------------- -->
+      <!-- Requirement 2 -->
+      <label for="meme-insert" class="label-block">
+        Imagem:
+        <input type="file" id="meme-insert" accept="image/*" />
+      </label>
+    </section>
+    <div id="meme-image-container">
+      <p id="meme-text"></p>
+      <img src="" alt="" id="meme-image" width="500" height="500" />
+    </div>
+    <!-- ------------- -->
+    <!-- Requirement 6 -->
+    <section id="change-border-section">
+      <h3>Bordas diferentes:</h3>
+      <button id="fire" class="change-border-button">Borda Fire 🔥</button>
+      <button id="water" class="change-border-button">Borda Water 💧</button>
+      <button id="earth" class="change-border-button">Borda Earth 🪨</button>
+    </section>
+    <!-- ------------- -->
+    <!-- Requirement 7 -->
+    <section id="default-meme-images">
+      <h3>Algumas imagens de memes:</h3>
+    </section>
+    <!-- ------------- -->
+  </body>
+</html>
