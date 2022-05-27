@@ -1,5 +1,7 @@
 # Welcome to the Art with Pixels project repository!
 
+> ## [Live Version](https://lucasdximenes.github.io/other/projects/project-pixels-art/)
+
 It was a project carried out as a full-stack web student at Trybe. The acquired knowledge was HTML, CSS, JavaScript and Programming Logic.
 
 ---
