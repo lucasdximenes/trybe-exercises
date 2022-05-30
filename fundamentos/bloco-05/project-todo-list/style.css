@@ -1,0 +1,121 @@
+.task-selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+header {
+  background-color: rgb(204, 204, 204);
+  padding: 10px;
+  text-align: center;
+}
+
+#text-input-section {
+  background-color: rgb(244, 67, 54);
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+}
+
+input {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 75%;
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+#criar-tarefa {
+  padding: 10px;
+  width: 15%;
+  background: rgb(217, 217, 217);
+  color: rgb(85, 85, 85);
+  text-align: center;
+  font-size: 1.15em;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#buttons-section {
+  text-align: center;
+  background-color: rgb(244, 67, 54);
+  padding: 25px 0;
+}
+
+.control-buttons {
+  display: inline-block;
+  padding: 10px;
+  background: rgb(217, 217, 217);
+  color: rgb(85, 85, 85);
+  text-align: center;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#criar-tarefa:hover {
+  background: rgb(187, 187, 187);
+}
+
+#criar-tarefa:active,
+.control-buttons:active {
+  background: rgb(170, 170, 170);
+}
+
+#remover-selecionado {
+  background: rgb(244, 155, 54);
+  color: white;
+}
+
+#mover-cima {
+  background: rgb(76, 175, 80);
+  color: white;
+}
+
+#mover-baixo {
+  background: rgb(76, 175, 80);
+  color: white;
+}
+
+#apaga-tudo {
+  background: rgb(244, 67, 54);
+  color: white;
+}
+
+#remover-finalizados {
+  background: rgb(54, 136, 244);
+  color: white;
+}
+
+#salvar-tarefas {
+  background: rgb(76, 175, 80);
+  color: white;
+}
+
+#tasks {
+  background-color: rgb(196, 196, 196);
+  padding: 30px 40px;
+  color: black;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#lista-tarefas {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.task {
+  padding: 10px;
+  margin-bottom: -2px;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+#edit-selected-task {
+  background: rgb(0, 17, 255);
+  color: white;
+}
