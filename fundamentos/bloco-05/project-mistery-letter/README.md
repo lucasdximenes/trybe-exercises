@@ -1,4 +1,4 @@
-# Welcome to the Art with Pixels project repository!
+# Welcome to the Mysterious Letter project repository!
 
 > ## [Live Version](https://lucasdximenes.github.io/other/projects/project-mistery-letter/)
 

@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Arte com Pixels!
+# Boas-vindas ao repositório do projeto Carta Misteriosa!
 
 > ## [Live Version](https://lucasdximenes.github.io/other/projects/project-mistery-letter/)
 
