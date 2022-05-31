@@ -54,7 +54,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 6: HTML and CSS: Forms, Flexbox and Responsive
 
-- [ ] 6-1: _HTML & CSS - Forms_
+- [x] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _JavaScript Libraries and CSS Frameworks_
 - [ ] 6-3: _Introduction - CSS Flexbox_
 - [ ] 6-3: _CSS Flexbox - Part 1_
