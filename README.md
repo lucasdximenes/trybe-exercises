@@ -49,8 +49,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-5: _[Projeto - Arte com Pixels](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-pixels-art)_
 - [x] 5-6: _(Bônus)[Projeto - Lista de tarefas](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-todo-list)_
 - [x] 5-7: _(Bônus)[Projeto - Meme Generator](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-meme-generator)_
-- [ ] 5-7: _(Bônus)[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _(Bônus)[Projeto - Carta Misteriosa]()_
+- [x] 5-7: _(Bônus)[Projeto - Adivinhe a Cor](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-color-guess)_
+- [x] 5-7: _(Bônus)[Projeto - Carta Misteriosa](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-mistery-letter)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 

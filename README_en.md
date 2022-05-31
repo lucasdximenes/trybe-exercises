@@ -49,8 +49,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 5-5: _[Project - Pixel Art](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-pixels-art)_
 - [x] 5-6: _(Bonus)[Project - Task List](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-todo-list)_
 - [x] 5-7: _(Bonus)[Project - Meme Generator](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-meme-generator)_
-- [ ] 5-7: _(Bonus)[Project - Guess the Color]()_
-- [ ] 5-7: _(Bonus)[Project - Mystery Letter]()_
+- [x] 5-7: _(Bonus)[Project - Guess the Color](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-color-guess)_
+- [x] 5-7: _(Bonus)[Project - Mystery Letter](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-mistery-letter)_
 
 ##### Block 6: HTML and CSS: Forms, Flexbox and Responsive
 
