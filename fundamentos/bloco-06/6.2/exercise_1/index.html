@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"
+      defer
+    ></script>
+    <script src="./libs/moment.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"
+      defer
+    ></script>
+    <script src="./script.js" defer></script>
+  </head>
+
+  <body>
+    <h1
+      class="font-sans text-5xl subpixel-antialiased font-bold text-center mt-4"
+    >
+      TrybeTrip
+    </h1>
+
+    <div class="container mx-auto max-w-3xl">
+      <form
+        id="trybetrip-form"
+        class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"
+      >
+        <section class="mb-4">
+          <label
+            for="input-name"
+            class="block text-gray-700 text-sm font-bold mb-2"
+          >
+            Nome completo:
+            <input
+              type="text"
+              name="complete-name"
+              id="input-name"
+              placeholder="Digite seu nome"
+              required
+              minlength="10"
+              maxlength="40"
+              class="shadow appearance-none border rounded w-full py-3 px-3 text-gray-700 leading-tight"
+            />
+          </label>
+          <label
+            for="input-email"
+            class="block text-gray-700 text-sm font-bold mb-2"
+          >
+            Email:
+            <input
+              type="email"
+              name="input-email"
+              id="input-email"
+              placeholder="Digite seu email"
+              required
+              minlength="10"
+              class="shadow appearance-none border rounded w-full py-3 px-3 text-gray-700 leading-tight"
+              maxlength="50"
+            />
+          </label>
+        </section>
+
+        <section class="mb-3.5 flex flex-col ..." id="destination-radio-group">
+          <p class="text-lg subpixel-antialiased mb-1.5">Destino preferido:</p>
+          <label for="destination1">
+            <input
+              type="radio"
+              id="destination1"
+              name="destinations"
+              value="Cidade"
+              required
+              class="mr-2.5 w-4 h-4"
+            />
+            Cidade
+          </label>
+          <label for="destination2">
+            <input
+              type="radio"
+              id="destination2"
+              name="destinations"
+              value="Campo"
+              required
+              class="mr-2.5 w-4 h-4"
+            />
+            Campo
+          </label>
+          <label for="destination3">
+            <input
+              type="radio"
+              id="destination3"
+              name="destinations"
+              value="Praia"
+              required
+              class="mr-2.5 w-4 h-4"
+            />
+            Praia
+          </label>
+          <label for="destination4">
+            <input
+              type="radio"
+              id="destination4"
+              name="destinations"
+              value="Montanhas"
+              required
+              class="mr-2.5 w-4 h-4"
+            />
+            Montanhas
+          </label>
+        </section>
+
+        <section class="mb-3.5">
+          <label for="reason-to-win" id="reasons">
+            <p class="text-lg subpixel-antialiased mb-1.5">
+              Por que você deveria ser a pessoa desenvolvedora a ganhar o
+              concurso TrybeTrip?
+            </p>
+            <textarea
+              name="reasons"
+              id="reason-to-win"
+              cols="30"
+              rows="10"
+              maxlength="500"
+              required
+              class="resize-none shadow border rounded w-full py-2 px-3"
+            ></textarea>
+          </label>
+        </section>
+
+        <section class="mb-3.5">
+          <label for="datepicker">
+            <p class="text-lg subpixel-antialiased mb-1.5">
+              Qual a melhor data para realizar sua viagem?
+            </p>
+            <input
+              type="text"
+              name="datepicker"
+              id="datepicker"
+              min="2022-05-31"
+              required
+              class="shadow appearance-none border rounded w-full py-3 px-3 text-gray-700 leading-tight"
+            />
+          </label>
+        </section>
+
+        <section class="mb-3.5 flex flex-col ...">
+          <label
+            for="oferts"
+            id="oferts-label"
+            class="font-sans text-sm subpixel-antialiased"
+          >
+            <input
+              type="checkbox"
+              name="oferts"
+              id="oferts"
+              class="mr-2.5 w-5 h-5"
+            />
+            Gostaria de receber outras incríveis oportunidades oferecidas pela
+            Trybe?
+          </label>
+          <label for="agreement" class="font-sans text-sm subpixel-antialiased">
+            <input
+              type="checkbox"
+              name="agreement"
+              id="agreement"
+              required
+              class="mr-2.5 w-5 h-5"
+            />
+            Concordo que imagens das minhas férias poderão ser usadas na
+            divulgação de concursos futuros.
+          </label>
+        </section>
+
+        <button
+          type="submit"
+          id="submit-btn"
+          class="transition ease-in-out delay-150 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+        >
+          Enviar
+        </button>
+      </form>
+      <button
+        id="reset-forms-button"
+        class="transition ease-in-out delay-150 bg-red-500 hover:bg-yellow-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+      >
+        Resetar formulario
+      </button>
+    </div>
+  </body>
+</html>
