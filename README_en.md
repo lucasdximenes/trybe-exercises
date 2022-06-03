@@ -39,7 +39,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 4-4: _JavaScript - Objects and Functions_
 - [x] 4-5: _[Project - Playground Functions](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-04/playground-functions)_
 
-##### Block 5: JavaScript: DOM, Events and Web Storage
+##### Block 5: JavaScript: DOM, Events and Web Storage ✔️
 
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
@@ -56,9 +56,9 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _JavaScript Libraries and CSS Frameworks_
-- [ ] 6-3: _Introduction - CSS Flexbox_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-3: _Introduction - CSS Flexbox_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _Responsive CSS - Mobile First_
 - [ ] 6-6: _[Project - Trybewarts]()_
 
