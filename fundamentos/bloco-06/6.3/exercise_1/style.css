@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu";
+}
+
+.header-img {
+  width: 70px;
+}
+
+.gallery-img {
+  width: 150px;
+}
+
+.social-img {
+  width: 25px;
+  margin: 10px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: #323433;
+  color: #ffffff;
+  width: 100%;
+}
+
+.header-container h1 {
+  font-size: 1.3rem;
+}
+
+.header-container h3 {
+  color: #b4bfb5;
+  text-decoration: underline;
+}
+
+.header-container h3:hover {
+  color: greenyellow;
+}
+
+.p-description-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.p-description-container p {
+  color: #372a3e;
+  font-size: 1.5rem;
+  text-align: center;
+  width: 90%;
+}
+
+.technologies-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: 20px auto;
+}
+
+.tech-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 220px;
+  margin: 0 10px 15px 0;
+  background-color: #f1f1f1;
+  color: #61647d;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px #cecece;
+}
+
+.tech-container h4 {
+  margin-bottom: 7px;
+}
+
+hr {
+  margin-top: 10px;
+  width: 25%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
