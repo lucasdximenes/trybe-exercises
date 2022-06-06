@@ -59,7 +59,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 6-3: _Introduction - CSS Flexbox_
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _Responsive CSS - Mobile First_
+- [x] 6-5: _Responsive CSS - Mobile First_
 - [ ] 6-6: _[Project - Trybewarts]()_
 
 ##### Block 7: Introduction to JavaScript ES6 and Unit Tests
