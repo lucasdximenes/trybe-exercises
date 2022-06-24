@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-7: _(Bônus)[Projeto - Adivinhe a Cor](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-color-guess)_
 - [x] 5-7: _(Bônus)[Projeto - Carta Misteriosa](https://github.com/lucasdximenes/trybe-exercises/tree/main/fundamentos/bloco-05/project-mistery-letter)_
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ✔️
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -62,7 +62,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _[Projeto - Trybewarts](https://github.com/lucasdximenes/trybewarts)_
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários ✔️
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
@@ -72,8 +72,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 8: High Order Functions do JavaScript ES6
 
 - [x] 8-1: _JavaScript ES6 - Introdução a High Order Functions_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] 8-6: _[Projeto - Zoo functions]()_
