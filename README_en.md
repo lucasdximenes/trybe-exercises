@@ -69,14 +69,14 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 7-3: _First Steps in Jest_
 - [x] 7-4: _[Project - JavaScript Unit Tests](https://github.com/lucasdximenes/js-unit-tests)_
 
-##### Block 8: JavaScript ES6 High Order Functions
+##### Block 8: JavaScript ES6 High Order Functions ✔️
 
 - [x] 8-1: _JavaScript ES6 - Introduction to High Order Functions_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
-- [ ] 8-6: _[Project - Zoo functions]()_
+- [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+- [x] 8-6: _[Project - Zoo functions](https://github.com/lucasdximenes/zoo-functions)_
 
 ##### Block 9: JavaScript and Asynchronous Tests
 
