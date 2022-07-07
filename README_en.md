@@ -82,8 +82,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 9: JavaScript and Asynchronous Tests
 
-- [ ] 9-1: _Asynchronous JavaScript and Callbacks_
-- [ ] 9-2: _Asynchronous JavaScript - Fetch API and async/await_
+- [x] 9-1: _Asynchronous JavaScript and Callbacks_
+- [x] 9-2: _Asynchronous JavaScript - Fetch API and async/await_
 - [ ] 9-3: _Jest - Asynchronous Tests_
 - [ ] 9-4: _[Project - Shopping Cart]()_
 
