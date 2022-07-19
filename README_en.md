@@ -89,10 +89,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 10: Introduction to React
 
-- [ ] 10-1: _Introduction - Front-end_
-- [ ] 10-1: _Introduction - React_
-- [ ] 10-1: _'Hello, world!' in React!_
-- [ ] 10-2: \_React Components
+- [x] 10-1: _Introduction - Front-end_
+- [x] 10-1: _Introduction - React_
+- [x] 10-1: _'Hello, world!' in React!_
+- [x] 10-2: \_React Components
 - [ ] 10-3: _[Project - Solar System]()_
 
 ##### Block 11: Stateful Components, Events and Forms with React
