@@ -80,12 +80,12 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ## Front-end development :hourglass_flowing_sand:
 
-##### Block 9: JavaScript and Asynchronous Tests
+##### Block 9: JavaScript and Asynchronous Tests ✔️
 
 - [x] 9-1: _Asynchronous JavaScript and Callbacks_
 - [x] 9-2: _Asynchronous JavaScript - Fetch API and async/await_
 - [x] 9-3: _Jest - Asynchronous Tests_
-- [ ] 9-4: _[Project - Shopping Cart]()_
+- [x] 9-4: _[Project - Shopping Cart](https://github.com/lucasdximenes/trybe-exercises)_
 
 ##### Block 10: Introduction to React
 
