@@ -87,13 +87,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 9-3: _Jest - Testes Assíncronos_
 - [x] 9-4: _[Projeto - Carrinho de Compras](https://lucasdximenes.github.io/other/projects/shopping-cart/)_
 
-##### Bloco 10: Introdução à React
+##### Bloco 10: Introdução à React ✔️
 
 - [x] 10-1: _Introdução - Front-end_
 - [x] 10-1: _Introdução - React_
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: \_Componentes React
-- [ ] 10-3: _[Projeto - Sistema Solar]()_
+- [x] 10-3: _[Projeto - Sistema Solar](https://github.com/lucasdximenes/solar-system-react)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 

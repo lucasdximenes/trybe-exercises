@@ -87,13 +87,13 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 9-3: _Jest - Asynchronous Tests_
 - [x] 9-4: _[Project - Shopping Cart](https://lucasdximenes.github.io/other/projects/shopping-cart/)_
 
-##### Block 10: Introduction to React
+##### Block 10: Introduction to React ✔️
 
 - [x] 10-1: _Introduction - Front-end_
 - [x] 10-1: _Introduction - React_
 - [x] 10-1: _'Hello, world!' in React!_
 - [x] 10-2: \_React Components
-- [ ] 10-3: _[Project - Solar System]()_
+- [x] 10-3: _[Project - Solar System](https://github.com/lucasdximenes/solar-system-react)_
 
 ##### Block 11: Stateful Components, Events and Forms with React
 
