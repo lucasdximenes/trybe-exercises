@@ -97,8 +97,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 11: Stateful Components, Events and Forms with React
 
-- [ ] 11-1: _Components with state and events_
-- [ ] 11-2: _Forms in React_
+- [x] 11-1: _Components with state and events_
+- [x] 11-2: _Forms in React_
 - [ ] 11-3: _[Project - Tryunfo]()_
 
 ##### Block 12: Component Lifecycle and React Router
