@@ -103,8 +103,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 12: Component Lifecycle and React Router
 
-- [ ] 12-1: _Component life cycle_
-- [ ] 12-2: _React Router_
+- [x] 12-1: _Component life cycle_
+- [x] 12-2: _React Router_
 - [ ] 12-3: _[Project - TrybeTunes]()_
 
 ##### Block 13: Agile Methodologies
