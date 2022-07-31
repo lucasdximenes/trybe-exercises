@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.dog-img {
+  height: 500px;
+  width: 500px;
+}
+
+.image-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.btn-input-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.next-dog-btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.input-dog-name {
+  border: none;
+  border-bottom: 2px solid #4caf50;
+  font-size: 16px;
+  margin: 7px;
+  padding: 15px 32px;
+  width: 200px;
+}
+
+.saved-dogs-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.saved-dogs-grid {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+}
+
+.dog-img-grid {
+  width: 200px;
+}
