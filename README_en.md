@@ -95,11 +95,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 10-2: \_React Components
 - [x] 10-3: _[Project - Solar System](https://github.com/lucasdximenes/solar-system-react)_
 
-##### Block 11: Stateful Components, Events and Forms with React
+##### Block 11: Stateful Components, Events and Forms with React ✔️
 
 - [x] 11-1: _Components with state and events_
 - [x] 11-2: _Forms in React_
-- [ ] 11-3: _[Project - Tryunfo]()_
+- [x] 11-3: _[Project - Tryunfo](https://tryunfo-ashen.vercel.app/)_
 
 ##### Block 12: Component Lifecycle and React Router
 
