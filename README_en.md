@@ -114,7 +114,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 14: Automated Testing with React Testing Library
 
-- [ ] 14-1: _RTL - Getting Started_
+- [x] 14-1: _RTL - Getting Started_
 - [ ] 14-2: _RTL - Mocks and Inputs_
 - [ ] 14-3: _RTL - Testing React Router_
 - [ ] 14-4: _[Project - Tests in React]()_
