@@ -105,11 +105,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
-- [ ] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-3: _[Projeto - TrybeTunes](https://github.com/lucasdximenes/miawtunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: _Metodologias Ágeis_
+- [x] 13-1: _Metodologias Ágeis_
 - [ ] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes automatizados com React Testing Library

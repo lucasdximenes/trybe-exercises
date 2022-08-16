@@ -105,11 +105,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 12-1: _Component life cycle_
 - [x] 12-2: _React Router_
-- [ ] 12-3: _[Project - TrybeTunes]()_
+- [x] 12-3: _[Project - TrybeTunes](https://github.com/lucasdximenes/miawtunes)_
 
 ##### Block 13: Agile Methodologies
 
-- [ ] 13-1: _Agile Methodologies_
+- [x] 13-1: _Agile Methodologies_
 - [ ] 13-2: _[Project - Frontend Online Store]()_
 
 ##### Block 14: Automated Testing with React Testing Library
