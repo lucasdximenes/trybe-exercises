@@ -122,7 +122,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 ##### Block 15: State Management with Redux
 
 - [x] 15-1: _Introduction to Redux - The global state of the application_
-- [ ] 15-2: _Using Redux in React_
+- [x] 15-2: _Using Redux in React_
 - [ ] 15-3: _Using Redux in React - Practice_
 - [ ] 15-4: _Using Redux in React - Asynchronous Actions_
 - [ ] 15-5: _Testing in React-Redux_
