@@ -101,27 +101,27 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 11-2: _Forms in React_
 - [x] 11-3: _[Project - Tryunfo](https://tryunfo-ashen.vercel.app/)_
 
-##### Block 12: Component Lifecycle and React Router
+##### Block 12: Component Lifecycle and React Router ✔️
 
 - [x] 12-1: _Component life cycle_
 - [x] 12-2: _React Router_
 - [x] 12-3: _[Project - TrybeTunes](https://github.com/lucasdximenes/miawtunes)_
 
-##### Block 13: Agile Methodologies
+##### Block 13: Agile Methodologies ✔️
 
 - [x] 13-1: _Agile Methodologies_
-- [ ] 13-2: _[Project - Frontend Online Store]()_
+- [x] 13-2: Project - Frontend Online Store
 
-##### Block 14: Automated Testing with React Testing Library
+##### Block 14: Automated Testing with React Testing Library ✔️
 
 - [x] 14-1: _RTL - Getting Started_
-- [ ] 14-2: _RTL - Mocks and Inputs_
-- [ ] 14-3: _RTL - Testing React Router_
-- [ ] 14-4: _[Project - Tests in React]()_
+- [x] 14-2: _RTL - Mocks and Inputs_
+- [x] 14-3: _RTL - Testing React Router_
+- [x] 14-4: Project - Tests in React
 
 ##### Block 15: State Management with Redux
 
-- [ ] 15-1: _Introduction to Redux - The global state of the application_
+- [x] 15-1: _Introduction to Redux - The global state of the application_
 - [ ] 15-2: _Using Redux in React_
 - [ ] 15-3: _Using Redux in React - Practice_
 - [ ] 15-4: _Using Redux in React - Asynchronous Actions_

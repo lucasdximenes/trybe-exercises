@@ -101,27 +101,27 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 11-2: _Formulários no React_
 - [x] 11-3: _[Projeto - Tryunfo](https://tryunfo-ashen.vercel.app/)_
 
-##### Bloco 12: Ciclo de Vida de Componentes e React Router
+##### Bloco 12: Ciclo de Vida de Componentes e React Router ✔️
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
 - [x] 12-3: _[Projeto - TrybeTunes](https://github.com/lucasdximenes/miawtunes)_
 
-##### Bloco 13: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis ✔️
 
 - [x] 13-1: _Metodologias Ágeis_
-- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-2: Projeto - Frontend Online Store
 
-##### Bloco 14: Testes automatizados com React Testing Library
+##### Bloco 14: Testes automatizados com React Testing Library ✔️
 
 - [x] 14-1: _RTL - Primeiros passos_
-- [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-3: _RTL - Testando React Router_
-- [ ] 14-4: _[Projeto - Testes em React]()_
+- [x] 14-2: _RTL - Mocks e Inputs_
+- [x] 14-3: _RTL - Testando React Router_
+- [x] 14-4: Projeto - Testes em React
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [ ] 15-2: _Usando o Redux no React_
 - [ ] 15-3: _Usando o Redux no React - Prática_
 - [ ] 15-4: _Usando o Reduxno React - Actions Assíncronas_
