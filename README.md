@@ -128,9 +128,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 15-5: _Testes em React-Redux_
 - [x] 15-6: _[Projeto - Trybe Wallet](https://github.com/lucasdximenes/trybewallet)_
 
-##### Bloco 16: Projeto Jogo de Trivia
+##### Bloco 16: Projeto Jogo de Trivia ✔️
 
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[Projeto - Jogo de Trivia](https://github.com/lucasdximenes/react-trivia)_
 
 ##### Bloco 17: Context API e React Hooks
 
