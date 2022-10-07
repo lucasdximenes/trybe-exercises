@@ -141,7 +141,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 18: Recipe App Project
 
-- [ ] 18-1: _[Project - Recipe App]()_
+- [x] 18-1: _[Project - Recipe App](https://github.com/lucasdximenes/recipe-app)_
 
 ## Backend development :hourglass_flowing_sand:
 

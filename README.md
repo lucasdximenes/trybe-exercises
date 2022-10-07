@@ -141,7 +141,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [x] 18-1: _[Projeto - App de Receitas](https://github.com/lucasdximenes/recipe-app)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
