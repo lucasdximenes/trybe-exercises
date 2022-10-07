@@ -137,7 +137,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 17-1: _Context API from React_
 - [x] 17-2: _React Hooks - useState and useContext_
 - [x] 17-3: _React Hooks - useEffect and custom Hooks_
-- [ ] 17-4: _[Project - StarWars Datatable with Context API and Hooks]()_
+- [x] 17-4: _[Project - StarWars Datatable with Context API and Hooks](https://github.com/lucasdximenes/starwars-project)_
 
 ##### Block 18: Recipe App Project
 
