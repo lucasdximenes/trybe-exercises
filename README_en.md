@@ -6,7 +6,7 @@ _"Trybe is a school of the future for anyone who wants to improve their lives an
 
 The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
-## Web Development Fundamentals :white_check_mark: ✔️
+## Web Development Fundamentals :white_check_mark:
 
 ##### Block 1: Unix & Bash ✔️
 
@@ -78,7 +78,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 - [x] 8-6: _[Project - Zoo functions](https://github.com/lucasdximenes/zoo-functions)_
 
-## Front-end development :hourglass_flowing_sand:
+## Front-end development :white_check_mark:
 
 ##### Block 9: JavaScript and Asynchronous Tests ✔️
 
