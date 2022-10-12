@@ -150,7 +150,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 19-1: _Introduction - Backend_
 - [x] 19-1: _Using Containers - Docker_
 - [x] 19-2: _Manipulating and Creating Images in Docker_
-- [ ] 19-3: _Orchestrating Containers with Docker Compose_
+- [x] 19-3: _Orchestrating Containers with Docker Compose_
 - [ ] 19-4: _[Project - Docker Todo-List]()_
 
 ##### Block 20: Introduction to SQL
