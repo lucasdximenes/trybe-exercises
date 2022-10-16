@@ -151,7 +151,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 19-1: _Using Containers - Docker_
 - [x] 19-2: _Manipulating and Creating Images in Docker_
 - [x] 19-3: _Orchestrating Containers with Docker Compose_
-- [ ] 19-4: _[Project - Docker Todo-List]()_
+- [x] 19-4: _[Project - Docker Todo-List](https://github.com/lucasdximenes/dockerized-todo-list)_
 
 ##### Block 20: Introduction to SQL
 
