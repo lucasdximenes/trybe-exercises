@@ -132,14 +132,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 16-1: _[Projeto - Jogo de Trivia](https://github.com/lucasdximenes/react-trivia)_
 
-##### Bloco 17: Context API e React Hooks
+##### Bloco 17: Context API e React Hooks ✔️
 
 - [x] 17-1: _Context API do React_
 - [x] 17-2: _React Hooks - useState e useContext_
 - [x] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/lucasdximenes/starwars-project)_
 
-##### Bloco 18: Projeto App de Receitas
+##### Bloco 18: Projeto App de Receitas ✔️
 
 - [x] 18-1: _[Projeto - App de Receitas](https://github.com/lucasdximenes/recipe-app)_
 
