@@ -145,7 +145,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ## Backend development :hourglass_flowing_sand:
 
-##### Block 19: Docker: Using Containers
+##### Block 19: Docker: Using Containers ✔️
 
 - [x] 19-1: _Introduction - Backend_
 - [x] 19-1: _Using Containers - Docker_
@@ -153,14 +153,14 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 19-3: _Orchestrating Containers with Docker Compose_
 - [x] 19-4: _[Project - Docker Todo-List](https://github.com/lucasdximenes/dockerized-Trybe-todo-list)_
 
-##### Block 20: Introduction to SQL
+##### Block 20: Introduction to SQL ✔️
 
 - [x] 20-1: _Introduction - Relational Databases_
 - [x] 20-1: _SQL Database_
 - [x] 20-2: _Finding data in a database_
 - [x] 20-3: _Filtering data specifically_
-- [ ] 20-4: _Manipulating tables_
-- [ ] 20-5: _[Project - All For One]()_
+- [x] 20-4: _Manipulating tables_
+- [x] 20-5: _[Project - All For One]()_
 
 ##### Block 21: SQL Functions, JOINs and Normalization
 
