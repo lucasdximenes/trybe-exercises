@@ -164,7 +164,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 21: SQL Functions, JOINs and Normalization
 
-- [ ] 21-1: _Most used functions in SQL_
+- [x] 21-1: _Most used functions in SQL_
 - [ ] 21-2: _Uncomplicating JOINs_
 - [ ] 21-3: _Transforming ideas into a database model_
 - [ ] 21-4: _Live class + [Project - One For All]()_
