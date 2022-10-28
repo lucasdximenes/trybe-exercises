@@ -171,7 +171,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 22: Introduction to Web Development with Node.js
 
-- [ ] 22-1: _Intro - Node.js_
+- [x] 22-1: _Intro - Node.js_
 - [ ] 22-1: _Node.js - A JavaScript engine_
 - [ ] 22-2: _Node.js - Asynchronous Stream_
 - [ ] 22-3: _Mocha, Chai and Sinon - Backend Tests with Node.js_
