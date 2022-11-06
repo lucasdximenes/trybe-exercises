@@ -176,7 +176,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 22-2: _Node.js - Asynchronous Stream_
 - [x] 22-3: _Mocha, Chai and Sinon - Backend Tests with Node.js_
 - [x] 22-4: _Express - Middlewares_
-- [ ] 22-5: _Express + MySQL_
+- [x] 22-5: _Express + MySQL_
 - [ ] 22-6: _Activities + [Project - Talker Manager]()_
 
 ##### Block 23: Node.js: Service Layer and Rest and Restful Architecture
