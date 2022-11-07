@@ -1,0 +1,12 @@
+version: "3"
+services:
+  database:
+    image: mysql:8.0.29
+    restart: on-failure
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: todolistdb
+    ports:
+      - 3306:3306
+    volumes:
+      - "./src/model/schema.sql:/docker-entrypoint-initdb.d/schema.sql"
