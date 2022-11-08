@@ -181,7 +181,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 23: Node.js: Service Layer and Rest and Restful Architecture
 
-- [ ] 23-1: _Introduction - Software Architecture_
+- [x] 23-1: _Introduction - Software Architecture_
 - [ ] 23-1: _Software Architecture - Model Layer_
 - [ ] 23-2: _Software Architecture - Controller and Service Layer_
 - [ ] 23-3: _Web Architecture - Rest and Restful_
