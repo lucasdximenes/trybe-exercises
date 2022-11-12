@@ -183,7 +183,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 23-1: _Arquitetura de Software - Camada de Model_
 - [x] 23-2: _Arquitetura de Software - Camada de Service_
-- [ ] 23-3: _Arquitetura de Software - Camada de Controller_
+- [x] 23-3: _Arquitetura de Software - Camada de Controller_
 - [ ] 23-4: _[Projeto - Store Manager]()_
 
 ##### Bloco 24: Node.js: ORM e Autenticação

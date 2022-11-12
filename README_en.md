@@ -183,7 +183,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 23-1: _Software Architecture - Model Layer_
 - [x] 23-2: _Software Architecture - Service Layer_
-- [ ] 23-3: _Software Architecture - Controller Layer_
+- [x] 23-3: _Software Architecture - Controller Layer_
 - [ ] 23-4: _[Project - Store Manager]()_
 
 ##### Block 24: Node.js: ORM and Authentication
