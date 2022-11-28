@@ -189,7 +189,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 ##### Block 24: Node.js: ORM and Authentication
 
 - [x] 24-1: _ORM - Application interface with the database_
-- [ ] 24-2: _ORM - Associations 1:1 and 1:N_
+- [x] 24-2: _ORM - Associations 1:1 and 1:N_
 - [ ] 24-3: _ORM - N:N Associations and Transactions_
 - [ ] 24-4: _JWT - (JSON Web Token)_
 - [ ] 24-5: _[Project - Blogs API]()_
