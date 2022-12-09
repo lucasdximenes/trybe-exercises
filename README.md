@@ -192,7 +192,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 24-2: _ORM - Associations 1:1 e 1:N_
 - [x] 24-3: _ORM - Associations N:N e Transactions_
 - [x] 24-4: _JWT - (JSON Web Token)_
-- [ ] 24-5: _[Projeto - API de Blogs]()_
+- [x] 24-5: _[Projeto - API de Blogs](https://github.com/lucasdximenes/blogs-api)_
 
 ##### Bloco 25: Deployment
 
