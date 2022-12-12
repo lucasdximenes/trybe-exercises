@@ -196,10 +196,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 25: Deployment
 
-- [ ] 25-1: _Introduction - Deploy_
-- [ ] 25-1: _Infrastructure - Deploy with Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Project - Stranger Things]()_
+- [ ] 25-1: _Masterclass Infrastructure and deploy_
 
 ##### Block 26: TypeScript
 
