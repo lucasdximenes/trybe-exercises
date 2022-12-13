@@ -196,7 +196,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 25: Deployment
 
-- [ ] 25-1: _Masterclass Infrastructure and deploy_
+- [x] 25-1: _Masterclass Infrastructure and deploy_
 
 ##### Block 26: TypeScript
 
