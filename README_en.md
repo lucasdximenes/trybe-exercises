@@ -202,7 +202,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 26-1: _Introduction - TypeScript_
 - [x] 26-1: _Introduction to TypeScript_
-- [ ] 26-2: _Static Typing and Generics_
+- [x] 26-2: _Static Typing and Generics_
 - [ ] 26-3: _Express with TypeScript_
 - [ ] 26-4: _[Project - Trybe Smith]()_
 
