@@ -162,14 +162,14 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 20-4: _Manipulating tables_
 - [x] 20-5: _[Project - All For One]()_
 
-##### Block 21: SQL Functions, JOINs and Normalization
+##### Block 21: SQL Functions, JOINs and Normalization ✔️
 
 - [x] 21-1: _Most used functions in SQL_
 - [x] 21-2: _Uncomplicating JOINs_
 - [x] 21-3: _Transforming ideas into a database model_
 - [x] 21-4: _Live class + [Project - One For All]()_
 
-##### Block 22: Introduction to Web Development with Node.js
+##### Block 22: Introduction to Web Development with Node.js ✔️
 
 - [x] 22-1: _Intro - Node.js_
 - [x] 22-1: _Node.js - A JavaScript engine_
@@ -179,14 +179,14 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 22-5: _Express + MySQL_
 - [x] 22-6: _Activities + [Project - Talker Manager]()_
 
-##### Block 23: Node.js: Service Layer and Rest and Restful Architecture
+##### Block 23: Node.js: Service Layer and Rest and Restful Architecture ✔️
 
 - [x] 23-1: _Software Architecture - Model Layer_
 - [x] 23-2: _Software Architecture - Service Layer_
 - [x] 23-3: _Software Architecture - Controller Layer_
 - [x] 23-4: _[Project - Store Manager](https://github.com/lucasdximenes/store-manager-api)_
 
-##### Block 24: Node.js: ORM and Authentication
+##### Block 24: Node.js: ORM and Authentication ✔️
 
 - [x] 24-1: _ORM - Application interface with the database_
 - [x] 24-2: _ORM - Associations 1:1 and 1:N_
@@ -194,7 +194,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 24-4: _JWT - (JSON Web Token)_
 - [x] 24-5: _[Project - Blogs API](https://github.com/lucasdximenes/blogs-api)_
 
-##### Block 25: Deployment
+##### Block 25: Deployment ✔️
 
 - [x] 25-1: _Masterclass Infrastructure and deploy_
 
