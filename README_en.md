@@ -198,13 +198,13 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 25-1: _Masterclass Infrastructure and deploy_
 
-##### Block 26: TypeScript
+##### Block 26: TypeScript ✔️
 
 - [x] 26-1: _Introduction - TypeScript_
 - [x] 26-1: _Introduction to TypeScript_
 - [x] 26-2: _Static Typing and Generics_
 - [x] 26-3: _Express with TypeScript_
-- [ ] 26-4: _[Project - Trybe Smith]()_
+- [x] 26-4: _[Project - Trybe Smith](https://github.com/lucasdximenes/medieval-store-api)_
 
 ##### Block 27: Block 27: Object Oriented Programming (OOP) and SOLID
 
