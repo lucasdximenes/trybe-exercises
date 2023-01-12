@@ -162,14 +162,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 20-4: _Manipulando tabelas_
 - [x] 20-5: _[Projeto - All For One]()_
 
-##### Bloco 21: Funções SQL, JOINs e Normalização
+##### Bloco 21: Funções SQL, JOINs e Normalização ✔️
 
 - [x] 21-1: _Funções mais usadas no SQL_
 - [x] 21-2: _Descomplicando JOINs_
 - [x] 21-3: _Transformando ideias em um modelo de banco de dados_
 - [x] 21-4: _Aula ao vivo + [Projeto - One For All]()_
 
-##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js ✔️
 
 - [x] 22-1: _Intro - Node.js_
 - [x] 22-1: _Node.js - Um motor JavaScript_
@@ -179,14 +179,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 22-5: _Express + MySQL_
 - [x] 22-6: _Atividades + [Projeto - Talker Manager]()_
 
-##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful ✔️
 
 - [x] 23-1: _Arquitetura de Software - Camada de Model_
 - [x] 23-2: _Arquitetura de Software - Camada de Service_
 - [x] 23-3: _Arquitetura de Software - Camada de Controller_
 - [x] 23-4: _[Projeto - Store Manager](https://github.com/lucasdximenes/store-manager-api)_
 
-##### Bloco 24: Node.js: ORM e Autenticação
+##### Bloco 24: Node.js: ORM e Autenticação ✔️
 
 - [x] 24-1: _ORM - Interface da aplicação com o banco de dados_
 - [x] 24-2: _ORM - Associations 1:1 e 1:N_
@@ -194,7 +194,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 24-4: _JWT - (JSON Web Token)_
 - [x] 24-5: _[Projeto - API de Blogs](https://github.com/lucasdximenes/blogs-api)_
 
-##### Bloco 25: Deployment
+##### Bloco 25: Deployment ✔️
 
 - [x] 25-1: _Masterclass Infraestrutura e deploy_
 
