@@ -208,7 +208,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 27: Block 27: Object Oriented Programming (OOP) and SOLID
 
-- [ ] 27-1: _Introduction to Object Orientation_
+- [x] 27-1: _Introduction to Object Orientation_
 - [ ] 27-2: _Inheritance and Interfaces_
 - [ ] 27-3: _Polymorphism_
 - [ ] 27-4: _SOLID - Introduction and Principles S, O and D_
