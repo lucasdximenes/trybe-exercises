@@ -223,8 +223,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 29-1: _Introduction - NoSQL_
 - [x] 29-1: _MongoDB - Introduction_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Query Operators_
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _Query Operators_
 - [ ] 29-4: _Simple Updates_
 - [ ] 29-5: _Complex Updates - Arrays_
 - [ ] 29-6: _[Project - Commerce]()_
