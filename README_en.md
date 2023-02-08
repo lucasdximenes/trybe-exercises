@@ -212,7 +212,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 27-2: _Inheritance and Interfaces_
 - [x] 27-3: _Polymorphism_
 - [x] 27-4: _SOLID - Introduction and Principles S, O and D_
-- [ ] 27-5: _SOLID - L and I Principles_
+- [x] 27-5: _SOLID - L and I Principles_
 - [ ] 27-6: _[Project - Trybers and Dragons]()_
 
 ##### Block 28: Project - TFC - Trybe Futebol Clube
