@@ -276,10 +276,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 36-2: _Arrays_
 - [x] 36-3: _Hashmap and Dict_
 - [x] 36-4: _Set_
-- [x] 36-5: _[Project - Restaurant Orders](https://github.com/lucasdximenes/restaurant-orders-project)_
+- [x] 36-5: _[Project - TING - Trybe Is Not Google]()_
 
 ##### Block 37: Data Structure II: Lists, Queues and Stacks
 
-- [ ] 38-1: _Node and Linked Lists_
-- [ ] 38-2: _Stacks and Queues_
-- [ ] 38-3: _[Project - TING - Trybe Is Not Google]()_
+- [x] 37-1: _Node and Linked Lists_
+- [x] 37-2: _Stacks and Queues_
+- [x] 37-3: _Pandas_
+- [x] 37-4: _[Project - Restaurant Orders](https://github.com/lucasdximenes/restaurant-orders-project)_
