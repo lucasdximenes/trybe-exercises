@@ -251,10 +251,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 33: Design Patterns
 
-- [ ] 34-1: _P.O.O in Python_
-- [ ] 34-2: _Defaults - Iterator, Adapter, Strategy_
-- [ ] 34-3: _Patterns - Decorator, Observer, Factory_
-- [ ] 34-4: _[Project - Inventory Reports]()_
+- [x] 33-1: _P.O.O in Python_
+- [x] 33-2: _Defaults - Iterator, Adapter, Strategy_
+- [x] 33-3: _Patterns - Decorator, Observer, Factory_
+- [x] 33-4: _[Project - Inventory Reports](https://github.com/lucasdximenes/inventory-report-project)_
 
 ##### Block 34: Networks and Data Scraping
 
