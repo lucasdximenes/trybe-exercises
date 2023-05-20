@@ -276,7 +276,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 36-2: _Arrays_
 - [x] 36-3: _Hashmap e Dict_
 - [x] 36-4: _Set_
-- [x] 36-5: _[Projeto - TING - Trybe Is Not Google]()_
+- [x] 36-5: _[Projeto - TING - Trybe Is Not Google](https://github.com/lucasdximenes/ting-project)_
 
 ##### Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas
 

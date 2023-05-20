@@ -276,7 +276,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 36-2: _Arrays_
 - [x] 36-3: _Hashmap and Dict_
 - [x] 36-4: _Set_
-- [x] 36-5: _[Project - TING - Trybe Is Not Google]()_
+- [x] 36-5: _[Project - TING - Trybe Is Not Google](https://github.com/lucasdximenes/ting-project)_
 
 ##### Block 37: Data Structure II: Lists, Queues and Stacks
 
