@@ -243,11 +243,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 32: Introduction to Python
 
-- [ ] 33-1: _Introduction - Computer Science_
-- [ ] 33-1: _Learning Python_
-- [ ] 33-2: _Input and Output of Data_
-- [ ] 33-3: _Tests_
-- [ ] 33-4: _[Project - Job Insights]()_
+- [x] 32-1: _Introduction - Computer Science_
+- [x] 32-1: _Learning Python_
+- [x] 32-2: _Input and Output of Data_
+- [x] 32-3: _Tests_
+- [x] 32-4: _[Project - Job Insights](https://github.com/lucasdximenes/job-insights)_
 
 ##### Block 33: Design Patterns
 
