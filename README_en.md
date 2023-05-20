@@ -258,10 +258,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 34: Networks and Data Scraping
 
-- [ ] 35-1: _Network architecture_
-- [ ] 35-2: _Computer networks, tools and security_
-- [ ] 35-3: _Data Scraping_
-- [ ] 35-4: _[Project - Tech news]()_
+- [x] 34-1: _Network architecture_
+- [x] 34-2: _Computer networks, tools and security_
+- [x] 34-3: _Data Scraping_
+- [x] 34-4: _[Project - Tech news](https://github.com/lucasdximenes/tech-news-project)_
 
 ##### Block 35: Algorithms
 
