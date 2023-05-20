@@ -265,10 +265,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 35: Algoritmos
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [x] 35-1: _Complexidade de Algoritmos_
+- [x] 35-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 35-3: _Algoritmos de ordenação e busca_
+- [x] 35-4: _[Projeto - Algoritmos](https://github.com/lucasdximenes/algorithms-project)_
 
 ##### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
 
@@ -283,5 +283,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 38-1: _Nó e Listas Encadeadas_
 - [ ] 38-2: _Pilhas e Filas_
 - [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
-
-# [...]

@@ -265,10 +265,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 35: Algorithms
 
-- [ ] 36-1: _Complexity of Algorithms_
-- [ ] 36-2: _Recursion and Problem Solving Strategies_
-- [ ] 36-3: _Sort and Search Algorithms_
-- [ ] 36-4: _[Project - Algorithms]()_
+- [x] 35-1: _Complexity of Algorithms_
+- [x] 35-2: _Recursion and Problem Solving Strategies_
+- [x] 35-3: _Sort and Search Algorithms_
+- [x] 35-4: _[Project - Algorithms](https://github.com/lucasdximenes/algorithms-project)_
 
 ##### Block 36: Data Structure I: Arrays, Hashmaps and Sets
 
