@@ -213,11 +213,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 27-3: _Polymorphism_
 - [x] 27-4: _SOLID - Introduction and Principles S, O and D_
 - [x] 27-5: _SOLID - L and I Principles_
-- [ ] 27-6: _[Project - Trybers and Dragons]()_
+- [x] 27-6: _Project - Trybers and Dragons_
 
 ##### Block 28: Project - TFC - Trybe Futebol Clube
 
-- [ ] 28-1: _[Project - TFC - Trybe Futebol Clube]()_
+- [x] 28-1: _[Project - TFC - Trybe Futebol Clube](https://github.com/lucasdximenes/football-match-manager)_
 
 ##### Block 29: Introduction to MongoDB
 
@@ -227,26 +227,21 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 29-3: _Query Operators_
 - [x] 29-4: _Simple Updates_
 - [x] 29-5: _Complex Updates - Arrays_
-- [ ] 29-6: _[Project - Commerce]()_
+- [x] 29-6: _Project - Commerce_
 
 ##### Block 30: MongoDB with Node.js and OOP
 
-- [ ] 30-1: _MongoDB and MSC architecture_
-- [ ] 30-2: _MongoDB and POO_
-- [ ] 30-3: _[Project - Car Shop]()_
+- [x] 30-1: _MongoDB and MSC architecture_
+- [x] 30-2: _MongoDB and POO_
+- [x] 30-3: _Project - Car Shop_
 
 ##### Block 31: Project - Delivery App
 
-- [ ] 31-1: _[Project - Delivery App]()_
-
-##### Block 32: MasterClass - VPS, CI/CD
-
-- [ ] 32-1: _Day 1_
-- [ ] 32-2: _Day 2_
+- [x] 31-1: _Project - Delivery App_
 
 ## Computer Science :hourglass_flowing_sand:
 
-##### Block 33: Introduction to Python
+##### Block 32: Introduction to Python
 
 - [ ] 33-1: _Introduction - Computer Science_
 - [ ] 33-1: _Learning Python_
@@ -254,28 +249,28 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 33-3: _Tests_
 - [ ] 33-4: _[Project - Job Insights]()_
 
-##### Block 34: Design Patterns
+##### Block 33: Design Patterns
 
 - [ ] 34-1: _P.O.O in Python_
 - [ ] 34-2: _Defaults - Iterator, Adapter, Strategy_
 - [ ] 34-3: _Patterns - Decorator, Observer, Factory_
 - [ ] 34-4: _[Project - Inventory Reports]()_
 
-##### Block 35: Networks and Data Scraping
+##### Block 34: Networks and Data Scraping
 
 - [ ] 35-1: _Network architecture_
 - [ ] 35-2: _Computer networks, tools and security_
 - [ ] 35-3: _Data Scraping_
 - [ ] 35-4: _[Project - Tech news]()_
 
-##### Block 36: Algorithms
+##### Block 35: Algorithms
 
 - [ ] 36-1: _Complexity of Algorithms_
 - [ ] 36-2: _Recursion and Problem Solving Strategies_
 - [ ] 36-3: _Sort and Search Algorithms_
 - [ ] 36-4: _[Project - Algorithms]()_
 
-##### Block 37: Data Structure I: Arrays, Hashmaps and Sets
+##### Block 36: Data Structure I: Arrays, Hashmaps and Sets
 
 - [ ] 37-1: _Computer Architecture_
 - [ ] 37-2: _Arrays_
@@ -283,10 +278,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 37-4: _Set_
 - [ ] 37-5: _[Project - Restaurant Orders]()_
 
-##### Block 38: Data Structure II: Lists, Queues and Stacks
+##### Block 37: Data Structure II: Lists, Queues and Stacks
 
 - [ ] 38-1: _Node and Linked Lists_
 - [ ] 38-2: _Stacks and Queues_
 - [ ] 38-3: _[Project - TING - Trybe Is Not Google]()_
-
-# [...]

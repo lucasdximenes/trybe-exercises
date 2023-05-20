@@ -213,11 +213,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 27-3: _Polimorfismo_
 - [x] 27-4: _SOLID - Introdução e Princípios S, O e D_
 - [x] 27-5: _SOLID - Princípios L e I_
-- [ ] 27-6: _[Projeto - Trybers and Dragons]()_
+- [x] 27-6: _Projeto - Trybers and Dragons_
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
-- [ ] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/lucasdximenes/football-match-manager)_
 
 ##### Bloco 29: Introdução ao MongoDB
 
@@ -227,26 +227,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 29-3: _Operadores de consulta_
 - [x] 29-4: _Updates Simples_
 - [x] 29-5: _Updates Complexos - Arrays_
-- [ ] 29-6: _[Projeto - Commerce]()_
+- [x] 29-6: _Projeto - Commerce_
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
-- [ ] 30-1: _MongoDB e arquitetura MSC_
-- [ ] 30-2: _MongoDB e POO_
-- [ ] 30-3: _[Projeto - Car Shop]()_
+- [x] 30-1: _MongoDB e arquitetura MSC_
+- [x] 30-2: _MongoDB e POO_
+- [x] 30-3: _Projeto - Car Shop_
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [ ] 31-1: _[Projeto - App de Delivery]()_
-
-##### Bloco 32: MasterClass - VPS, CI/CD
-
-- [ ] 32-1: _Dia 1_
-- [ ] 32-2: _Dia 2_
+- [x] 31-1: _Projeto - App de Delivery_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: Introdução à Python
+##### Bloco 32: Introdução à Python
 
 - [ ] 33-1: _Introdução - Ciência da Computação_
 - [ ] 33-1: _Aprendendo Python_
@@ -254,28 +249,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 33-3: _Testes_
 - [ ] 33-4: _[Projeto - Job Insights]()_
 
-##### Bloco 34: Padrões de Projeto
+##### Bloco 33: Padrões de Projeto
 
 - [ ] 34-1: _P.O.O em Python_
 - [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [ ] 34-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
 
-##### Bloco 35: Redes e Raspagem de Dados
+##### Bloco 34: Redes e Raspagem de Dados
 
 - [ ] 35-1: _Arquitetura de redes_
 - [ ] 35-2: _Redes de computadores, ferramentas e segurança_
 - [ ] 35-3: _Raspagem de Dados_
 - [ ] 35-4: _[Projeto - Tech news]()_
 
-##### Bloco 36: Algoritmos
+##### Bloco 35: Algoritmos
 
 - [ ] 36-1: _Complexidade de Algoritmos_
 - [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 36-3: _Algoritmos de ordenação e busca_
 - [ ] 36-4: _[Projeto - Algoritmos]()_
 
-##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
+##### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
 
 - [ ] 37-1: _Arquitetura de Computadores_
 - [ ] 37-2: _Arrays_
@@ -283,7 +278,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 37-4: _Set_
 - [ ] 37-5: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas
+##### Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas
 
 - [ ] 38-1: _Nó e Listas Encadeadas_
 - [ ] 38-2: _Pilhas e Filas_
