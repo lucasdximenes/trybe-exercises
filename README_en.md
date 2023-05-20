@@ -272,11 +272,11 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Block 36: Data Structure I: Arrays, Hashmaps and Sets
 
-- [ ] 37-1: _Computer Architecture_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Hashmap and Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Project - Restaurant Orders]()_
+- [x] 36-1: _Computer Architecture_
+- [x] 36-2: _Arrays_
+- [x] 36-3: _Hashmap and Dict_
+- [x] 36-4: _Set_
+- [x] 36-5: _[Project - Restaurant Orders](https://github.com/lucasdximenes/restaurant-orders-project)_
 
 ##### Block 37: Data Structure II: Lists, Queues and Stacks
 
